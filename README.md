@@ -9,11 +9,11 @@ Tested thoroughly using **Postman**.
 
 ecommerce/
 - products/ # Handles product creation, listing, updating, and stock control
-├── orders/ # Order creation, item validation, and inventory updates
-├── vendors/ # Vendor registration and store management
-├── users/ # User registration, login, authentication
-├── reviews/ # Customer reviews and ratings for products
-├── manage.py
+- orders/ # Order creation, item validation, and inventory updates
+- vendors/ # Vendor registration and store management
+- users/ # User registration, login, authentication
+- reviews/ # Customer reviews and ratings for products
+- manage.py
 
 
 ---
