@@ -8,7 +8,7 @@ Tested thoroughly using **Postman**.
 ## 📁 Project Structure
 
 ecommerce/
-├── products/ # Handles product creation, listing, updating, and stock control
+- products/ # Handles product creation, listing, updating, and stock control
 ├── orders/ # Order creation, item validation, and inventory updates
 ├── vendors/ # Vendor registration and store management
 ├── users/ # User registration, login, authentication
