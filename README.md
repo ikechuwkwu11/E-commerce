@@ -6,6 +6,7 @@ Tested thoroughly using **Postman**.
 ---
 
 ## 📁 Project Structure
+
 ecommerce/
 ├── products/ # Handles product creation, listing, updating, and stock control
 ├── orders/ # Order creation, item validation, and inventory updates
